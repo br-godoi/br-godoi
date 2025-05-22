@@ -51,4 +51,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](https://mail.google.com/mail/?view=cm&fs=1&to=rampani.gabriel@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/gabriel-godoi-36b2a8223/)
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8j3ufCI9Xcs4N4zt5H5Y8qOdsVr7Sve2XuQ&s" alt="Imagem" width="80" />
 
