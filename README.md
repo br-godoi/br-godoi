@@ -50,6 +50,9 @@
 
 ## 📫 Contato
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:rampani.gabriel@gmail.com)
+## 📫 Contato
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](https://mail.google.com/mail/?view=cm&fs=1&to=rampani.gabriel@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/gabriel-godoi-36b2a8223/)
+
 
